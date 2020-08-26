@@ -1,5 +1,5 @@
-def square_array(array) ** 2
-  counter = 0 
+def square_array(array) 
+
   array.each do |array|
     #{array}
     
